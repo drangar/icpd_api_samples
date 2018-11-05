@@ -1,3 +1,7 @@
 Perform snapshot,http://backup
 Perform archive to cloud,http://archive
 
+{"action_name":"new","action_endpoint":"new action"}
+ddd,ddss
+Amods backup to S3,https://s3.amod.com/backup
+Lalits action,https://lalit.com/actnow
